@@ -1,0 +1,63 @@
+{
+  "assets": [
+  	{
+  		"id": "FONT",
+  		"type": "font",
+  		"src": "PixelPlain.ttf",
+  		"size": 36
+  	},
+  	{
+  		"id": "SHIP",
+  		"type": "mesh",
+  		"src": "ship.obj"
+  	},
+  	{
+  		"id": "SPHERE",
+  		"type": "mesh",
+  		"src": "sphere.obj"
+  	},
+  	{
+  		"id": "TRAIL",
+  		"type": "texture",
+  		"src": "trail.png",
+  		"generateMipmaps": false
+  	},
+  	{
+  		"id": "RING",
+  		"type": "texture",
+  		"src": "ring.png",
+  		"generateMipmaps": false
+  	},
+  	{
+  		"id": "RING",
+  		"type": "mesh",
+  		"src": "ring.obj"
+  	},
+  	{
+  		"id": "SHIP",
+  		"type": "texture",
+  		"src": "ship.png",
+  		"generateMipmaps": false
+  	},
+  	{
+  		"id": "CLOUDS",
+  		"type": "texture",
+  		"src": "clouds.png",
+  		"generateMipmaps": false
+  	}
+
+  	,
+  	{
+  		"id": "BGM",
+  		"type": "audio",
+  		"src": "bgm.ogg",
+  		"category": "music"
+  	},
+  	{
+  		"id": "BLIP",
+  		"type": "audio",
+  		"src": "blip.ogg",
+  		"category": "sfx"
+  	}
+  ]
+}
